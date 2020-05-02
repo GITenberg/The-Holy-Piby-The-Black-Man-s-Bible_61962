@@ -1,5 +1,8 @@
 _repo: The-Holy-Piby-The-Black-Man-s-Bible_61962
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61962-h/images/cover.jpg
 creator:
   author:
     agent_name: Rogers, Robert Athlyi
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51699
     wikipedia: https://en.wikipedia.org/wiki/Robert_Athlyi_Rogers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61962#The-Holy-Piby-The-Black-Man-s-Bible
 gutenberg_issued: '2020-04-27'
 gutenberg_type: Text
 identifiers:
