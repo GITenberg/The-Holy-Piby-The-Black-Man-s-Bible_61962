@@ -1,0 +1,29 @@
+_repo: The-Holy-Piby-The-Black-Man-s-Bible_61962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rogers, Robert Athlyi
+    alias: Athlyi Rogers, Robert
+    birthdate: 1891
+    deathdate: 1931
+    gutenberg_agent_id: '51699'
+    url: http://www.gutenberg.org/2009/agents/51699
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Athlyi_Rogers
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Religion'
+- !lcsh 'Blacks -- West Indies -- Religion'
+- !lcsh 'Afro Athlican Constructive Church -- Sacred books'
+- !lcc 'BL'
+- !lcsh 'Rastafari movement -- Sacred books'
+- GITenberg
+title: 'The Holy Piby: The Black Man''s Bible'
+url: http://www.gutenberg.org/ebooks/61962
